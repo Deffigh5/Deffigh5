@@ -1,6 +1,6 @@
  # Sobre mim
 - 👋 Oi, eu sou um estudante 
--  meu email de contato é:victoroliveiram327@gmail.com
+-  meu email de contato é:[email](victoroliveiram327@gmail.com)
 - Que está usando essa plataforma de uma forma para aprender
 - ## :+1:Sobre o que eu estarei fazendo
 - também divulgarei informações e as organizarei para que fique mais pratica a procura
